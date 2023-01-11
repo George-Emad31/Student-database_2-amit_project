@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661204818 source:c:\users\macbook pro\onedrive\desktop\amit-c-project-main\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"acp.h"
+
+1661203671 c:\users\macbook pro\onedrive\desktop\amit-c-project-main\acp.h
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
